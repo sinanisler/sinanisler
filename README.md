@@ -17,9 +17,7 @@ Experiences & Technologies
 - CSS3
 - JS
 - jQuery
-- Linux
-- Apache
-- MySql
+- Linux - LAMPP
 </td>
 
 </tr>
