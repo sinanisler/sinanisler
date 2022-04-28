@@ -11,10 +11,10 @@
 
 Experiences & Technologies
 - WordPress
+- SEO
 - PHP
 - HTML
-- CSS
-- CSS3
+- CSS - CSS3
 - JS
 - jQuery
 - Linux - LAMPP
