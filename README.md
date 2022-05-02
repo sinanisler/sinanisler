@@ -2,17 +2,7 @@ Hello 🖐,
 
 👀 Experience
 
-WordPress Developer, 
-
-Front-End Developer, 
-
-Frontity, 
-
-jQuery, 
-
-Youtube, 
-
-SEO Analyst Technical.
+WordPress Developer, Front-End Developer, JS, jQuery, Youtube, SEO Analyst Technical.
 
 
 
