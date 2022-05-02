@@ -1,3 +1,3 @@
 Hello 🖐,
 
-WordPress Developer, Front-End Developer, Frontity/React, Youtube, SEO Analyst
+WordPress Developer, Front-End Developer, Frontity, Youtube, SEO Analyst
