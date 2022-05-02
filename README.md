@@ -11,4 +11,4 @@ WordPress Developer, WP Themes, WP Plugins, Bootstrap, CSS, Front-End Developer,
 
 👨‍🎓 LAB
 
-Making experiments React with Gatsby / Frontity / WordPress ❤
+Making experiments with React + Gatsby / Frontity / WordPress ❤
