@@ -4,7 +4,7 @@ My Name is Sinan,
 
 .
 
-👀 My Experience
+👀 Experience
 
 WordPress Developer, Bootstrap, CSS, Front-End, Pixel Perfect Design Slicing, JS, jQuery, Youtube, SEO Analyst Technical.
 
@@ -12,6 +12,6 @@ WordPress Developer, Bootstrap, CSS, Front-End, Pixel Perfect Design Slicing, JS
 
 .
 
-👨‍🎓 Learning LAB
+👨‍🎓 LAB
 
 Making experiments with React + Gatsby / Frontity / WPGraphQL  ❤
