@@ -2,7 +2,7 @@ Hello 🖐,
 
 My Name is Sinan,
 
-.
+. 
 
 👀 Experience
 
