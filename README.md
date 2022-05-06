@@ -13,4 +13,4 @@ WordPress Developer, Bootstrap, CSS, Front-End, Pixel Perfect Design Slicing, JS
 
 👨‍🎓 LAB
 
-Making experiments with React + Gatsby / Frontity / WPGraphQL  ❤
+Making headless experiments with React + WPGraphQL  ❤
