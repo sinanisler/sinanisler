@@ -8,7 +8,7 @@ My Name is Sinan,
 
 WordPress Developer, Bootstrap, CSS, Front-End, Pixel Perfect Design Slicing, JS, jQuery, Youtube, SEO.
 
-.
+. 
 
 
 👨‍🎓 LAB
