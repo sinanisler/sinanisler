@@ -6,7 +6,7 @@ My Name is Sinan,
 
 👀 Experience
 
-WordPress Developer, Bootstrap, CSS, Front-End, Pixel Perfect Design Slicing, JS, jQuery, Youtube, SEO.
+WordPress Developer, WordPress Security, Optimization, Bootstrap, CSS, Front-End, Pixel Perfect Design Slicing, JS, jQuery, Youtube, SEO.
 
 . 
 
