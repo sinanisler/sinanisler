@@ -3,12 +3,12 @@ Hello 🖐,
 My Name is Sinan,
 
 
-👀 **Experience
+👀 **Experience**
 
 WordPress Developer, WordPress Security, Optimization, Bootstrap, CSS, Front-End, Pixel Perfect Design Slicing, JS, jQuery, Youtube, SEO.
 
 
-👨‍🎓 **LAB
+👨‍🎓 **LAB**
 
 Making experiments with React + WordPress  ❤
  
