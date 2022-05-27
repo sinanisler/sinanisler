@@ -10,6 +10,6 @@ WordPress Developer, WordPress Security, Optimization, Bootstrap, CSS, Front-End
 
 👨‍🎓 **LAB**
 
-Making experiments with React , WordPress ❤ , AR.js , TensorFlow.js
+Making experiments with React , WordPress , AR.js , TensorFlow.js
 
 Web3 is coming... 🤩
