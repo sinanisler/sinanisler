@@ -12,4 +12,4 @@ WordPress Developer, WordPress Security, Optimization, Bootstrap, CSS, Front-End
 
 Making experiments with React , WordPress ❤ , AR.js , TensorFlow.js
 
-Web3 is coming... 
+Web3 is coming... 🤩
