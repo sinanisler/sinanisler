@@ -2,7 +2,7 @@ Hello 🖐
 
 **My Stack**
 
-![](https://img.shields.io/badge/Tech-WordPress-4854F7.svg)
+![](https://img.shields.io/badge/WordPress-4854F7.svg)
 ![](https://img.shields.io/badge/Tech-Bootstrap-60C4FA.svg)
 ![](https://img.shields.io/badge/Tech-CSS-ABFA71.svg)
 ![](https://img.shields.io/badge/Tech-JS-e35656.svg)
