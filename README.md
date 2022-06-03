@@ -3,12 +3,12 @@ Hello 🖐
 **My Stack**
 
 ![](https://img.shields.io/badge/WordPress-4854F7.svg)
-![](https://img.shields.io/badge/Tech-Bootstrap-60C4FA.svg)
-![](https://img.shields.io/badge/Tech-CSS-ABFA71.svg)
-![](https://img.shields.io/badge/Tech-JS-e35656.svg)
-![](https://img.shields.io/badge/Tech-jQuery-B537D4.svg)
-![](https://img.shields.io/badge/Tech-SEO-5298EB.svg)
-![](https://img.shields.io/badge/Tech-Design_Slicing-EB41D9.svg)
+![](https://img.shields.io/badge/Bootstrap-60C4FA.svg)
+![](https://img.shields.io/badge/CSS-ABFA71.svg)
+![](https://img.shields.io/badge/JS-e35656.svg)
+![](https://img.shields.io/badge/jQuery-B537D4.svg)
+![](https://img.shields.io/badge/SEO-5298EB.svg)
+![](https://img.shields.io/badge/Design_Slicing-EB41D9.svg)
 
 
 
