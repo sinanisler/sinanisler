@@ -1,9 +1,6 @@
-Hello 🖐,
+Hello 🖐
 
-My Name is Sinan,
-
-
-**Experience**
+**My Stack**
 
 ![](https://img.shields.io/badge/Tech-WordPress-4854F7.svg)
 ![](https://img.shields.io/badge/Tech-Bootstrap-60C4FA.svg)
