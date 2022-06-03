@@ -11,7 +11,7 @@ My Name is Sinan,
 ![](https://img.shields.io/badge/Tech-JS-e35656.svg)
 ![](https://img.shields.io/badge/Tech-jQuery-e35656.svg)
 ![](https://img.shields.io/badge/Tech-SEO-e35656.svg)
-![](https://img.shields.io/badge/Tech-Design Slicing-e35656.svg)
+![](https://img.shields.io/badge/Tech-Design_Slicing-e35656.svg)
 
 
 
