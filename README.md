@@ -1,6 +1,6 @@
 Hello 🖐
 
-**My Stack**
+
 
 ![](https://img.shields.io/badge/WordPress-4854F7.svg)
 ![](https://img.shields.io/badge/Bootstrap-60C4FA.svg)
