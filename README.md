@@ -19,7 +19,7 @@ WordPress Developer, Speed and SEO Optimization, Bootstrap, CSS, Front-End, Pixe
 
 Making experiments with AR.js , TensorFlow.js , React , WordPress.
 
-Web3 is coming... 🤩
+Getting ready for Web3.
   
  
  
