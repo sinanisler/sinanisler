@@ -14,6 +14,8 @@ I am a WordPress Ninja 🐱‍👤
 
 WordPress Developer, Speed and SEO Optimization, Bootstrap, CSS, Front-End, Pixel Perfect Design Slicing, JS, jQuery, Youtube.
 
+Cross Browser Master since IE6 :)
+
 
 **LAB**
 
