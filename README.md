@@ -19,7 +19,7 @@ Cross Browser since IE8
 
 **LAB**
 
-Making experiments with AR.js , TensorFlow.js , React , WordPress.
+Making experiments with AR.js , React , WordPress.
 
 Getting ready for Web3.
   
