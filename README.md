@@ -16,8 +16,7 @@ WordPress Developer, Speed and SEO Optimization, Bootstrap, CSS, Front-End, Pixe
 
 Cross Browser since IE8
 
-
-**LAB**
+.
 
 Making experiments with React , AR.js , WordPress.
 
