@@ -9,6 +9,8 @@ I am a WordPress Ninja 🐱‍👤
 ![](https://img.shields.io/badge/jQuery-B537D4.svg)
 ![](https://img.shields.io/badge/SEO-5298EB.svg)
 ![](https://img.shields.io/badge/Design_Slicing-EB41D9.svg)
+![](https://img.shields.io/badge/Design_to_WP-EB41D9.svg)
+![](https://img.shields.io/badge/Design_to_Elementor-EB41D9.svg)
 
 
 
