@@ -21,7 +21,7 @@ Cross Browser since IE8
 
 .
 
-Making experiments with React , AR.js , WordPress.
+Making experiments with NextJS, React , AR.js , WordPress.
 
 Getting ready for Web3.
   
