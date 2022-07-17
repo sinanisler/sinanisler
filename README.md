@@ -17,7 +17,7 @@ I am a WordPress Ninja 🐱‍👤
 
 WordPress Developer, Speed and SEO Optimization, Bootstrap, CSS, Front-End, Pixel Perfect Design Slicing, JS, jQuery, Youtube.
 
-Cross Browser since IE8
+Cross Browser since IE6. Our new IE6 is Safari...
 
 .
 
