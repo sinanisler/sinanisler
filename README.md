@@ -1,12 +1,6 @@
 Hello 🖐
 
 I am a WordPress Ninja 🐱‍👤 
-
-
-[![Gmail Badge](https://img.shields.io/badge/-sinan@sinanisler.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sinan@sinanisler.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Tygo%20van%20Ommen-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinanisler/ "Connect on LinkedIn")
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sinanisler)
-
  
 ![](https://img.shields.io/badge/WordPress-4854F7.svg)
 ![](https://img.shields.io/badge/Bootstrap-60C4FA.svg)
@@ -20,18 +14,17 @@ I am a WordPress Ninja 🐱‍👤
 ![](https://img.shields.io/badge/Design_to_Elementor-EB41D9.svg)
 
 
-
 WordPress Developer, Speed and SEO Optimization, Bootstrap, CSS, Front-End, Pixel Perfect Design Slicing, JS, jQuery, Youtube.
 
-Cross Browser since IE6. 
-
-.
-
-Having fun with NextJS, React , AR.js , WordPress.
-
 Getting ready for Web3.
-  
  
-   
-   
-     
+
+[![Gmail Badge](https://img.shields.io/badge/-sinan@sinanisler.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sinan@sinanisler.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Tygo%20van%20Ommen-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinanisler/ "Connect on LinkedIn")
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sinanisler)
+
+
+
+
+
+
