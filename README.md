@@ -20,7 +20,7 @@ Getting ready for Web3.
  
 
 [![Gmail Badge](https://img.shields.io/badge/-sinan@sinanisler.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sinan@sinanisler.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Tygo%20van%20Ommen-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinanisler/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-sinanisler-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinanisler/ "Connect on LinkedIn")
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sinanisler)
 
 
