@@ -21,7 +21,7 @@ Front-End, Back-End, Middle-Earth, Pixel Perfect Design Slicing,
 JS, jQuery, Youtube.
 
 
-
+.
 Getting ready for Web3.
  
  
