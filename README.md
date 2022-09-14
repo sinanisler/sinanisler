@@ -17,7 +17,7 @@ WordPress Developer, Speed and SEO Optimization, Bootstrap, CSS,
 
 Front-End, Back-End, Middle-Earth, Pixel Perfect Design Slicing, 
 
-WooCommerce, ACF, JS, jQuery
+WooCommerce, ACF, JetEngine, JS, jQuery
 
 
 .
