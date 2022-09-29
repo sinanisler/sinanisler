@@ -22,7 +22,6 @@ WooCommerce, ACF, JetEngine, JS, jQuery
 
 .
 
-Getting ready for Web3.
  
  
 
