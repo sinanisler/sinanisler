@@ -20,7 +20,7 @@ Front-End, Back-End, Middle-Earth, Pixel Perfect Design Slicing,
 WooCommerce, ACF, JetEngine, JS, jQuery, JS Motion, GSAP.
 
 .  
-
+ 
  
  
 
