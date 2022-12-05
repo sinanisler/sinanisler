@@ -15,7 +15,7 @@ I am a WordPress Ninja 🐱‍👤
 
 WordPress Developer, Speed and SEO Optimization, Bootstrap, CSS,
 
-Front-End, Back-End, Middle-Earth, Pixel Perfect Design Slicing, 
+Front-End, Back-End, Middle-Earth, Responsive Design Slicing, 
 
 WooCommerce, ACF, JetEngine, JS, jQuery, JS Motion, GSAP.
 
