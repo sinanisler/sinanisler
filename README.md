@@ -26,7 +26,7 @@ WooCommerce, ACF, JetEngine, JS, jQuery, JS Motion, GSAP.
 
 [![Gmail Badge](https://img.shields.io/badge/-sinan@sinanisler.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sinan@sinanisler.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-sinanisler-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinanisler/ "Connect on LinkedIn")
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sinanisler)
+
 
 
    
