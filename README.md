@@ -13,11 +13,13 @@ I am a WordPress Ninja 🐱‍👤
 ![](https://img.shields.io/badge/Design_to_Elementor-EB41D9.svg)
 
 
-WordPress Developer, Speed and SEO Optimization, Bootstrap, CSS,
+WordPress Developer, Technical SEO Planning, Bootstrap, CSS,
 
-Front-End, Back-End, Middle-Earth, Responsive Design Slicing, 
+WooCommerce, ACF, JetEngine, JS, jQuery, JS Motion, GSAP,
 
-WooCommerce, ACF, JetEngine, JS, jQuery, JS Motion, GSAP.
+Front-End, Back-End, Middle-Earth, Responsive Design Slicing.
+
+
 
 .  
  
@@ -26,8 +28,6 @@ WooCommerce, ACF, JetEngine, JS, jQuery, JS Motion, GSAP.
 
 [![Gmail Badge](https://img.shields.io/badge/-sinan@sinanisler.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sinan@sinanisler.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-sinanisler-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinanisler/ "Connect on LinkedIn")
-
-
 
    
  
