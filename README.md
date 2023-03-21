@@ -22,7 +22,7 @@ WooCommerce, ACF, JetEngine, JS, jQuery, JS Motion, GSAP, ThreeJS
 Front-End, Back-End, Middle-Earth, Responsive Design Slicing.
  
   
-.  
+.   
  
  
  
