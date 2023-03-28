@@ -31,6 +31,6 @@ Front-End, Back-End, Middle-Earth, Responsive Design Slicing.
 [![Linkedin Badge](https://img.shields.io/badge/-sinanisler-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinanisler/ "Connect on LinkedIn")
 
     
- 
+  
   
    
