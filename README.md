@@ -24,7 +24,7 @@ Front-End, Back-End, Middle-Earth, Responsive Design Slicing.
   
 .   
  
- 
+  
  
 
 [![Gmail Badge](https://img.shields.io/badge/-sinan@sinanisler.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sinan@sinanisler.com "Connect via Email")
