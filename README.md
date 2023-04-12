@@ -15,7 +15,7 @@ I am a WordPress Ninja 🐱‍👤
 ![](https://img.shields.io/badge/Design_to_Elementor-EB41D9.svg)
 
 
-WordPress Developer, Technical SEO Planning, Bootstrap, CSS,
+WordPress Developer, Technical SEO Planning, CSS, CSS3,
 
 WooCommerce, ACF, JetEngine, JS, JS Motion, GSAP, ThreeJS
 
