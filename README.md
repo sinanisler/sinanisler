@@ -14,12 +14,12 @@ I am a WordPress Ninja 🐱‍👤
 ![](https://img.shields.io/badge/Design_to_Elementor-EB41D9.svg)
 
 
-WordPress Developer, Technical SEO Planning, CSS, CSS3,
+WordPress Developer. Design to WordPress. 👍
+WordPress & Web Development with more than 10 years of experience. 
 
-WooCommerce, ACF, JetEngine, JS, JS Motion, GSAP, ThreeJS
-
-Front-End, Back-End, Middle-Earth, Responsive Design Slicing.
- 
+Web Development, Responsive Design Slicing, WooCommerce, ACF, JetEngine, PHP, 
+CSS, JS, Motion, ThreeJS, GSAP, Elementor, Bricks, Custom Themes, 
+Custom Widgets, Custom Blocks, Optimization, PageSpeed, On-Site SEO. 
   
 .   
  
