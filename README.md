@@ -18,7 +18,9 @@ WordPress Developer. Design to WordPress. 👍
 WordPress & Web Development with more than 10 years of experience. 
 
 Web Development, Responsive Design Slicing, WooCommerce, ACF, JetEngine, PHP, 
+
 CSS, JS, Motion, ThreeJS, GSAP, Elementor, Bricks, Custom Themes, 
+
 Custom Widgets, Custom Blocks, Optimization, PageSpeed, On-Site SEO. 
   
 .   
