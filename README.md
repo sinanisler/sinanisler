@@ -11,7 +11,7 @@ I am a Web Developer and WordPress Ninja 🐱‍👤
 ![](https://img.shields.io/badge/WooCommerce-5098EB.svg)
 ![](https://img.shields.io/badge/Design_to_Native_Theme-EB41D9.svg)
 ![](https://img.shields.io/badge/Design_to_Gutenberg-EB41D9.svg)
-![](https://img.shields.io/badge/Design_to_Elementor-EB41D9.svg)
+![](https://img.shields.io/badge/Design_to_Bricks-ffd53e.svg)
  
 
 WordPress Developer. Design to WordPress. 👍
