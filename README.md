@@ -7,8 +7,6 @@ I am a Web Developer and WordPress Ninja 🐱‍👤
 
     
 
-WordPress Developer. Design to WordPress. 👍
-WordPress & Web Development with more than 10 years of experience. 
 
 Web Development, Responsive Design Slicing, WooCommerce, ACF, PODS,
 
