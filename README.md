@@ -11,7 +11,7 @@ I am a Web Developer and WordPress Ninja 🐱‍👤
 
 Web Development, Responsive Design Slicing, WooCommerce, ACF, PODS,
 
-PHP, CSS, JS, Motion, ThreeJS, GSAP, Elementor, Bricks, Custom Themes, 
+PHP, CSS, JS, Motion, ThreeJS, GSAP, Bricks, Block Themes, Custom Themes, Custom Plugins.
 
 Custom Widgets, Custom Blocks, Optimization, PageSpeed, On-Site SEO. 
   
