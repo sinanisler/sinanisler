@@ -9,7 +9,7 @@ I am a Web Developer and WordPress Ninja 🐱‍👤
     
 WordPress, WooCommerce, Web & AI Solutions 
 
-High performance, secure websites built with Bricks Builder, Block Editor, or custom PHP Themes.
+High performance, secure websites built with Bricks Builder or Block Editor or custom PHP Themes.
 
 Perfect for agencies, enterprises, and businesses seeking maximum ROI.
 
