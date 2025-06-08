@@ -7,13 +7,13 @@ I am a Web Developer and WordPress Ninja 🐱‍👤
 [![Youtube Badge](https://img.shields.io/badge/-SinanWP-c00b0b?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/@sinanwp "Subscribe to YT")
 
     
+WordPress, WooCommerce, Web & AI Solutions 
 
+High performance, secure websites built with Bricks Builder, Block Editor, or custom PHP Themes.
 
-Web Development, Responsive Design Slicing, WooCommerce, ACF, PODS,
+Perfect for agencies, enterprises, and businesses seeking maximum ROI.
 
-PHP, CSS, JS, Motion, ThreeJS, GSAP, Bricks, Block Themes, Custom Themes, Custom Plugins.
-
-Custom Widgets, Custom Blocks, Optimization, PageSpeed, On-Site SEO. 
+Analysis, Consulting, Web & Custom AI Solution Integration, and Development.
   
 .   
  
