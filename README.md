@@ -15,7 +15,6 @@ Perfect for agencies, enterprises, and businesses seeking maximum ROI.
 
 Analysis, Consulting, Web & Custom AI Solution Integration, and Development.
   
-.   
  
   
  
@@ -29,8 +28,8 @@ Analysis, Consulting, Web & Custom AI Solution Integration, and Development.
 ![](https://img.shields.io/badge/SEO-5298EB.svg)
 ![](https://img.shields.io/badge/WooCommerce-5098EB.svg)
 ![](https://img.shields.io/badge/Design_to_Native_Theme-EB41D9.svg)
-![](https://img.shields.io/badge/Design_to_Gutenberg-EB41D9.svg)
 ![](https://img.shields.io/badge/Design_to_Bricks-ffd53e.svg)
+![](https://img.shields.io/badge/Design_to_Gutenberg-EB41D9.svg)
  
   
    
