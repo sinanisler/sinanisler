@@ -1,7 +1,5 @@
-Hello 🖐,<br> 
-I am Sinan  🐱‍👤 
-
 Building tomorrow's solutions. 
+
 <pre>
 ★ Web
 ★ WordPress
