@@ -1,9 +1,13 @@
 Hello 🖐, I am Sinan  🐱‍👤 
 
 Building tomorrow's solutions. 
+
 ★ Web
+
 ★ WordPress
+
 ★ WooCommerce 
+
 ★ AI 🧙‍♂️
 
 
