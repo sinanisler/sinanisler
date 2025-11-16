@@ -7,6 +7,6 @@ Hello 🐱‍👤
 [![Youtube Badge](https://img.shields.io/badge/-SinanWP-c00b0b?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/@sinanwp "Subscribe to YT")
 
 
-[![Sponsor me](https://img.shields.io/badge/Consider Supporting My Projects ❤-GitHub-d46)](https://github.com/sponsors/sinanisler)
+[![Sponsor me](https://img.shields.io/badge/Consider_Supporting_My_Projects_❤-GitHub-d46)](https://github.com/sponsors/sinanisler)
 
     
