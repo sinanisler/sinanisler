@@ -10,7 +10,7 @@ Building tomorrow's solutions.
 
 [![Sponsor me](https://img.shields.io/badge/Consider_Supporting_My_Projects_❤-GitHub-d46)](https://github.com/sponsors/sinanisler)
 
-<pre>
+<p>
 ✰ [sinanisler/snn-brx-child-theme](https://github.com/sinanisler/snn-brx-child-theme)
 ✰ [sinanisler/snn-chat](https://github.com/sinanisler/snn-chat)
 ✰ [sinanisler/gumroad-connect](https://github.com/sinanisler/gumroad-connect)
@@ -19,4 +19,4 @@ Building tomorrow's solutions.
 ✰ [sinanisler/snn-tickets](https://github.com/sinanisler/snn-tickets)
 ✰ [sinanisler/accessibility-widgets](https://github.com/sinanisler/accessibility-widgets)
 ✰ [sinanisler/data-animate](https://github.com/sinanisler/data-animate)
-</pre>
+</p>
