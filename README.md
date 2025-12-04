@@ -10,7 +10,7 @@ Open Sourcerer.
 [![Sponsor me](https://img.shields.io/badge/Consider_Supporting_My_Projects_❤-GitHub-d46)](https://github.com/sponsors/sinanisler)
 
 
-- ✰ [sinanisler/snn-brx](https://github.com/sinanisler/snn-brx-child-theme) <span style="color:red">Theme</span>
+- ✰ [sinanisler/snn-brx](https://github.com/sinanisler/snn-brx-child-theme)  (https://placehold.it/150/ffffff/ff0000?text=Theme)
 - ✰ [sinanisler/snn-block](https://github.com/sinanisler/snn-block)
 - ✰ [sinanisler/snn-tickets](https://github.com/sinanisler/snn-tickets)
 - ✰ [sinanisler/snn-chat](https://github.com/sinanisler/snn-chat)
