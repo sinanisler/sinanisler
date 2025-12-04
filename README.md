@@ -12,8 +12,8 @@ Open Sourcerer.
 
 
 
-- ✰ [sinanisler/snn-brx](https://github.com/sinanisler/snn-brx-child-theme)      $${\color{#d04665}\mathsf{\small Theme}}$$
-- ✰ [sinanisler/snn-block](https://github.com/sinanisler/snn-block)              $${\color{#d04665}\mathsf{\small Theme}}$$
+- ✰ [sinanisler/snn-brx](https://github.com/sinanisler/snn-brx-child-theme)      $${\color{#f0afe2}\mathsf{\small Theme}}$$
+- ✰ [sinanisler/snn-block](https://github.com/sinanisler/snn-block)              $${\color{#f0afe2}\mathsf{\small Theme}}$$
 - ✰ [sinanisler/snn-tickets](https://github.com/sinanisler/snn-tickets)          $${\color{#1E90FF}\mathsf{\small Plugin}}$$
 - ✰ [sinanisler/gumroad-connect](https://github.com/sinanisler/gumroad-connect)  $${\color{#1E90FF}\mathsf{\small Plugin}}$$
 - ✰ [sinanisler/snn-ai-chats](https://github.com/sinanisler/snn-ai-chats)        $${\color{#1E90FF}\mathsf{\small Plugin}}$$
