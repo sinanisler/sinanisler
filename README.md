@@ -17,7 +17,7 @@ Open Sourcerer.
 - ✰ [sinanisler/snn-tickets](https://github.com/sinanisler/snn-tickets)          $${\color{#aff0eb}\mathsf{\small Plugin}}$$
 - ✰ [sinanisler/gumroad-connect](https://github.com/sinanisler/gumroad-connect)  $${\color{#aff0eb}\mathsf{\small Plugin}}$$
 - ✰ [sinanisler/snn-ai-chats](https://github.com/sinanisler/snn-ai-chats)        $${\color{#aff0eb}\mathsf{\small Plugin}}$$
-- ✰ [sinanisler/data-animate](https://github.com/sinanisler/data-animate)                                  $${\color{#40E0D0}\mathsf{\small NPM}}$$
-- ✰ [sinanisler/accessibility-widgets](https://github.com/sinanisler/accessibility-widgets)                $${\color{#40E0D0}\mathsf{\small NPM}}$$
+- ✰ [sinanisler/data-animate](https://github.com/sinanisler/data-animate)                                  $${\color{#e9f2aa}\mathsf{\small NPM}}$$
+- ✰ [sinanisler/accessibility-widgets](https://github.com/sinanisler/accessibility-widgets)                $${\color{#e9f2aa}\mathsf{\small NPM}}$$
 - ✰ [sinanisler/WPML-AI-Translation](https://github.com/sinanisler/WPML-AI-Translation-Chrome-Extension)   $${\color{#40E0D0}\mathsf{\small Chrome Extension}}$$
 - ✰ [sinanisler/snn-chat](https://github.com/sinanisler/snn-chat)                                          $${\color{#40E0D0}\mathsf{\small Chrome Extension}}$$
