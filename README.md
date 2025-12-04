@@ -6,6 +6,7 @@ Open Sourcerer.
 ★ WooCommerce 
 ★ AI 🧙‍♂️
 </pre>
+<br><br>
 
 <a href="https://github.com/sponsors/sinanisler">
 <img src="https://img.shields.io/badge/Consider_Supporting_My_Projects_❤-GitHub-d46" width="310" height="auto" />
