@@ -12,7 +12,7 @@ Open Sourcerer.
 
 
 
-- ✰ [sinanisler/snn-brx](https://github.com/sinanisler/snn-brx-child-theme)      $${\color{#d04665}\mathsf{\small Theme}}$$
+- ✰ [sinanisler/snn-brx](https://github.com/sinanisler/snn-brx-child-theme)      $${\color{#d04665}\mathtt{\small Theme}}$$
 - ✰ [sinanisler/snn-block](https://github.com/sinanisler/snn-block)              $${\color{#d04665}\mathsf{\small Theme}}$$
 - ✰ [sinanisler/snn-tickets](https://github.com/sinanisler/snn-tickets)          $${\color{#1E90FF}\mathsf{\small Plugin}}$$
 - ✰ [sinanisler/snn-chat](https://github.com/sinanisler/snn-chat)                $${\color{#1E90FF}\mathsf{\small Plugin}}$$
