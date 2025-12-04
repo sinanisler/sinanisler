@@ -12,13 +12,13 @@ Open Sourcerer.
 </a>
 <br><br>
 
-- ✰ [sinanisler/snn-brx](https://github.com/sinanisler/snn-brx-child-theme)      $${\color{#f0afe2}\mathsf{\small Theme}}$$
-- ✰ [sinanisler/snn-block](https://github.com/sinanisler/snn-block)              $${\color{#f0afe2}\mathsf{\small Theme}}$$
-- ✰ [sinanisler/snn-tickets](https://github.com/sinanisler/snn-tickets)          $${\color{#aff0eb}\mathsf{\small Plugin}}$$
-- ✰ [sinanisler/snn-ai-chats](https://github.com/sinanisler/snn-ai-chats)        $${\color{#aff0eb}\mathsf{\small Plugin}}$$
-- ✰ [sinanisler/time-tracking](https://github.com/sinanisler/time-tracking)        $${\color{#aff0eb}\mathsf{\small Plugin}}$$
-- ✰ [sinanisler/gumroad-connect](https://github.com/sinanisler/gumroad-connect)  $${\color{#aff0eb}\mathsf{\small Plugin}}$$
-- ✰ [sinanisler/data-animate](https://github.com/sinanisler/data-animate)                                  $${\color{#e9f2aa}\mathsf{\small NPM}}$$
-- ✰ [sinanisler/accessibility-widgets](https://github.com/sinanisler/accessibility-widgets)                $${\color{#e9f2aa}\mathsf{\small NPM}}$$
-- ✰ [sinanisler/WPML-AI-Translation](https://github.com/sinanisler/WPML-AI-Translation-Chrome-Extension)   $${\color{#f27979}\mathsf{\small Chrome Extension}}$$
-- ✰ [sinanisler/snn-chat](https://github.com/sinanisler/snn-chat)                                          $${\color{#f27979}\mathsf{\small Chrome Extension}}$$
+- ✰ [sinanisler/snn-brx](https://github.com/sinanisler/snn-brx-child-theme)      <sub>Theme</sub>
+- ✰ [sinanisler/snn-block](https://github.com/sinanisler/snn-block)              <sub>Theme</sub>
+- ✰ [sinanisler/snn-tickets](https://github.com/sinanisler/snn-tickets)          <sub>Plugin</sub>
+- ✰ [sinanisler/snn-ai-chats](https://github.com/sinanisler/snn-ai-chats)        <sub>Plugin</sub>
+- ✰ [sinanisler/time-tracking](https://github.com/sinanisler/time-tracking)      <sub>Plugin</sub>
+- ✰ [sinanisler/gumroad-connect](https://github.com/sinanisler/gumroad-connect)  <sub>Plugin</sub>
+- ✰ [sinanisler/data-animate](https://github.com/sinanisler/data-animate)                                  <sub>npm</sub>
+- ✰ [sinanisler/accessibility-widgets](https://github.com/sinanisler/accessibility-widgets)                <sub>npm</sub>
+- ✰ [sinanisler/WPML-AI-Translation](https://github.com/sinanisler/WPML-AI-Translation-Chrome-Extension)   <sub>Chrome Extension</sub>
+- ✰ [sinanisler/snn-chat](https://github.com/sinanisler/snn-chat)                                          <sub>Chrome Extension</sub>
