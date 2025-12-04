@@ -10,9 +10,9 @@ Open Sourcerer.
 [![Sponsor me](https://img.shields.io/badge/Consider_Supporting_My_Projects_❤-GitHub-d46)](https://github.com/sponsors/sinanisler)
 
 
-- ✰ [sinanisler/snn-brx](https://github.com/sinanisler/snn-brx-child-theme)
-- ✰ [sinanisler/snn-tickets](https://github.com/sinanisler/snn-tickets)
+- ✰ [sinanisler/snn-brx](https://github.com/sinanisler/snn-brx-child-theme) <span style="color:red">Theme</span>
 - ✰ [sinanisler/snn-block](https://github.com/sinanisler/snn-block)
+- ✰ [sinanisler/snn-tickets](https://github.com/sinanisler/snn-tickets)
 - ✰ [sinanisler/snn-chat](https://github.com/sinanisler/snn-chat)
 - ✰ [sinanisler/gumroad-connect](https://github.com/sinanisler/gumroad-connect)
 - ✰ [sinanisler/data-animate](https://github.com/sinanisler/data-animate)
