@@ -19,7 +19,6 @@ Open Sourcerer.
 - ✰ [sinanisler/time-tracking](https://github.com/sinanisler/time-tracking)      <sub>Plugin</sub>
 - ✰ [sinanisler/gumroad-api](https://github.com/sinanisler/gumroad-api)  <sub>Plugin</sub>
 - ✰ [sinanisler/gumroad-connect](https://github.com/sinanisler/gumroad-connect)  <sub>Plugin</sub>
-- ✰ [sinanisler/snn-edu-utilities](https://github.com/sinanisler/snn-edu-utilities)  <sub>Plugin</sub>
 - ✰ [sinanisler/github-to-wordpress-sync](https://github.com/sinanisler/github-to-wordpress-sync)  <sub>Plugin</sub>
 - ✰ [sinanisler/data-animate](https://github.com/sinanisler/data-animate)                                  <sub>npm</sub>
 - ✰ [sinanisler/accessibility-widgets](https://github.com/sinanisler/accessibility-widgets)                <sub>npm</sub>
