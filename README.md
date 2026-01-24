@@ -12,8 +12,8 @@ Open Sourcerer.
 - ✰ [sinanisler/snn-ai-chats](https://github.com/sinanisler/snn-ai-chats)        <sub>Plugin</sub>
 - ✰ [sinanisler/time-tracking](https://github.com/sinanisler/time-tracking)      <sub>Plugin</sub>
 - ✰ [sinanisler/snn-client-comments](https://github.com/sinanisler/snn-client-comments)      <sub>Plugin</sub>
+- ✰ [sinanisler/lemonsqueezy-api](https://github.com/sinanisler/lemonsqueezy-api)  <sub>Plugin</sub>
 - ✰ [sinanisler/gumroad-api](https://github.com/sinanisler/gumroad-api)  <sub>Plugin</sub>
-- ✰ [sinanisler/gumroad-connect](https://github.com/sinanisler/gumroad-connect)  <sub>Plugin</sub>
 - ✰ [sinanisler/github-to-wordpress-sync](https://github.com/sinanisler/github-to-wordpress-sync)  <sub>Plugin</sub>
 - ✰ [sinanisler/accessibility-widgets](https://github.com/sinanisler/accessibility-widgets)                <sub>npm</sub>
 - ✰ [sinanisler/data-animate](https://github.com/sinanisler/data-animate)                                  <sub>npm</sub>
