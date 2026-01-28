@@ -1,5 +1,4 @@
-Coder.<br> 
-Open Sourcerer.
+O_O
 <br><br>
 <a href="https://github.com/sponsors/sinanisler">
 <img src="https://img.shields.io/badge/Consider_Supporting_My_Projects_❤-GitHub-d46" width="300" height="auto" />
