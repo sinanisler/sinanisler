@@ -13,6 +13,7 @@
 - ✰ [sinanisler/data-animate](https://github.com/sinanisler/data-animate)                                  <sub>npm</sub>
 - ✰ [sinanisler/WPML-AI-Translation](https://github.com/sinanisler/WPML-AI-Translation-Chrome-Extension)   <sub>Chrome Extension</sub>
 - ✰ [sinanisler/snn-chat](https://github.com/sinanisler/snn-chat)                                          <sub>Chrome Extension</sub>
+- ✰ [sinanisler/ffmpeg-converter](https://github.com/sinanisler/ffmpeg-converter)                           <sub>Desktop APP</sub>
 
 
 <br>
