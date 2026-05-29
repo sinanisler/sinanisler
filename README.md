@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Consider_Supporting_My_Projects_❤-GitHub-d46" width="280" height="auto" />
 </a>
 
-
+<br>
 <a href="https://www.linkedin.com/in/sinanisler/">
-<img src="https://img.shields.io/badge/Consider_Supporting_My_Projects_❤-LinkedIn-0077B5?logo=linkedin&logoColor=white" width="280"  />
+<img src="https://img.shields.io/badge/Full_Stack_Dev_Wizard_❤-LinkedIn-0077B5?logo=linkedin&logoColor=white" width="280"  />
 </a>
