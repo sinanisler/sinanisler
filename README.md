@@ -1,9 +1,9 @@
 
-<br>
+
 <a href="https://www.linkedin.com/in/sinanisler/">
 <img src="https://img.shields.io/badge/Full_Stack_Dev_Wizard_-LinkedIn-0077B5?logo=linkedin&logoColor=white"  />
 </a>
-
+<br><br>
 
 
 - ✰ [sinanisler/snn-brx](https://github.com/sinanisler/snn-brx-child-theme)      <sub>Theme</sub>
