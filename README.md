@@ -1,7 +1,7 @@
 
 
 <a href="https://www.linkedin.com/in/sinanisler/">
-<img src="https://img.shields.io/badge/Full_Stack_Wizard_-LinkedIn.com/in/sinanisler-0077B5?logo=linkedin&logoColor=white"  />
+<img src="https://img.shields.io/badge/Full_Stack_Wizard_-linkedin.com/in/sinanisler-0077B5?logo=linkedin&logoColor=white"  />
 </a>
 <br><br>
 
