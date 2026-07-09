@@ -9,7 +9,6 @@
 - ✰ [sinanisler/snn-brx](https://github.com/sinanisler/snn-brx-child-theme)      <sub>Theme</sub>
 - ✰ [sinanisler/snn-block](https://github.com/sinanisler/snn-block)              <sub>Theme</sub>
 - ✰ [sinanisler/snn-tickets](https://github.com/sinanisler/snn-tickets)          <sub>Plugin</sub>
-- ✰ [sinanisler/snn-ai-chats](https://github.com/sinanisler/snn-ai-chats)        <sub>Plugin</sub>
 - ✰ [sinanisler/time-tracking](https://github.com/sinanisler/time-tracking)      <sub>Plugin</sub>
 - ✰ [sinanisler/snn-client-comments](https://github.com/sinanisler/snn-client-comments)      <sub>Plugin</sub>
 - ✰ [sinanisler/creem-io-api](https://github.com/sinanisler/creem-io-api)  <sub>Plugin</sub>
