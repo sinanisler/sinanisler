@@ -15,6 +15,7 @@
 - ✰ [sinanisler/lemonsqueezy-api](https://github.com/sinanisler/lemonsqueezy-api)  <sub>Plugin</sub>
 - ✰ [sinanisler/gumroad-api](https://github.com/sinanisler/gumroad-api)  <sub>Plugin</sub>
 - ✰ [sinanisler/github-to-wordpress-sync](https://github.com/sinanisler/github-to-wordpress-sync)  <sub>Plugin</sub>
+- ✰ [sinanisler/snn-figma-to-html-css-export](https://github.com/sinanisler/snn-figma-to-html-css-export)  <sub>Figma Plugin</sub>
 - ✰ [sinanisler/accessibility-widgets](https://github.com/sinanisler/accessibility-widgets)                <sub>npm</sub>
 - ✰ [sinanisler/data-animate](https://github.com/sinanisler/data-animate)                                  <sub>npm</sub>
 - ✰ [sinanisler/WPML-AI-Translation](https://github.com/sinanisler/WPML-AI-Translation-Chrome-Extension)   <sub>Chrome Extension</sub>
